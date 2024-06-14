@@ -1,0 +1,45 @@
+C:\Users\puzha\OneDrive\Desktop\Game\bin\Debug\net7.0\Game.exe
+C:\Users\puzha\OneDrive\Desktop\Game\bin\Debug\net7.0\Game.deps.json
+C:\Users\puzha\OneDrive\Desktop\Game\bin\Debug\net7.0\Game.runtimeconfig.json
+C:\Users\puzha\OneDrive\Desktop\Game\bin\Debug\net7.0\Game.dll
+C:\Users\puzha\OneDrive\Desktop\Game\bin\Debug\net7.0\Game.pdb
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.csproj.AssemblyReference.cache
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.AssemblyInfo.cs
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.dll
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\refint\Game.dll
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.pdb
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\Game.genruntimeconfig.cache
+C:\Users\puzha\OneDrive\Desktop\Game\obj\Debug\net7.0\ref\Game.dll
+C:\ZZZ acadamics\programming fundamentals\Game\bin\Debug\net7.0\Game.exe
+C:\ZZZ acadamics\programming fundamentals\Game\bin\Debug\net7.0\Game.deps.json
+C:\ZZZ acadamics\programming fundamentals\Game\bin\Debug\net7.0\Game.runtimeconfig.json
+C:\ZZZ acadamics\programming fundamentals\Game\bin\Debug\net7.0\Game.dll
+C:\ZZZ acadamics\programming fundamentals\Game\bin\Debug\net7.0\Game.pdb
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.csproj.AssemblyReference.cache
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.AssemblyInfo.cs
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.dll
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\refint\Game.dll
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.pdb
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\Game.genruntimeconfig.cache
+C:\ZZZ acadamics\programming fundamentals\Game\obj\Debug\net7.0\ref\Game.dll
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\bin\Debug\net7.0\Game.exe
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\bin\Debug\net7.0\Game.deps.json
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\bin\Debug\net7.0\Game.runtimeconfig.json
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\bin\Debug\net7.0\Game.dll
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\bin\Debug\net7.0\Game.pdb
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.csproj.AssemblyReference.cache
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.AssemblyInfo.cs
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.dll
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\refint\Game.dll
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.pdb
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\Game.genruntimeconfig.cache
+C:\ZZZ acadamics\zz SEM 1\programming fundamentals\Game\obj\Debug\net7.0\ref\Game.dll
